@@ -1,0 +1,11 @@
+C:\source\codeworks\login-terminal\obj\Debug\netcoreapp2.1\login-terminal.csprojAssemblyReference.cache
+C:\source\codeworks\login-terminal\obj\Debug\netcoreapp2.1\login-terminal.csproj.CoreCompileInputs.cache
+C:\source\codeworks\login-terminal\obj\Debug\netcoreapp2.1\login-terminal.AssemblyInfoInputs.cache
+C:\source\codeworks\login-terminal\obj\Debug\netcoreapp2.1\login-terminal.AssemblyInfo.cs
+C:\source\codeworks\login-terminal\bin\Debug\netcoreapp2.1\login-terminal.deps.json
+C:\source\codeworks\login-terminal\bin\Debug\netcoreapp2.1\login-terminal.runtimeconfig.json
+C:\source\codeworks\login-terminal\bin\Debug\netcoreapp2.1\login-terminal.runtimeconfig.dev.json
+C:\source\codeworks\login-terminal\bin\Debug\netcoreapp2.1\login-terminal.dll
+C:\source\codeworks\login-terminal\bin\Debug\netcoreapp2.1\login-terminal.pdb
+C:\source\codeworks\login-terminal\obj\Debug\netcoreapp2.1\login-terminal.dll
+C:\source\codeworks\login-terminal\obj\Debug\netcoreapp2.1\login-terminal.pdb
